@@ -1,0 +1,8 @@
+SR : 44100 #sampling rate
+SPLIT_S : 10 #second`s
+
+NMEL : 80 # mel-spectrogram filter
+WINLEN : 1102
+# 1102 < default
+NFFT : 1102
+HOP : 441
